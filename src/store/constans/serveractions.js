@@ -1,0 +1,6 @@
+export const ACTION_SERVER_GET = 'get'
+export const ACTION_SERVER_ADD = 'add'
+export const ACTION_SERVER_SET = 'set'
+export const ACTION_SERVER_DELETE = 'delete'
+export const ACTION_SERVER_UPDATE = 'update'
+export const ACTION_SERVER_PASS = 'pass'

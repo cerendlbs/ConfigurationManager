@@ -1,0 +1,6 @@
+export const ACTION_DATABASE_GET = 'get'
+export const ACTION_DATABASE_ADD = 'add'
+export const ACTION_DATABASE_SET = 'set'
+export const ACTION_DATABASE_DELETE = 'delete'
+export const ACTION_DATABASE_UPDATE = 'update'
+export const ACTION_DATABASE_PASS = 'pass'
